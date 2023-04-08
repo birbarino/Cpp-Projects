@@ -1,0 +1,1 @@
+g++ -Wall .\main.cpp .\SongNode.cpp -o Playlist.exe

@@ -1,5 +1,4 @@
 /.vscode
 *.exe
 output.*
-/C867/performance-assessment
 .gitignore

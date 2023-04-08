@@ -1,0 +1,1 @@
+g++ -Wall .\Book.cpp .\BookNode.cpp .\LinkedListLibrary.cpp .\VectorLibrary.cpp .\main.cpp -o Library.exe

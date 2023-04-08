@@ -1,0 +1,1 @@
+g++ -Wall MagicCard.cpp main.cpp -o PrintBolt.exe
